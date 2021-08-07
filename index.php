@@ -1,3 +1,3 @@
 <?php
-echo "This is a code from GitHUB 5aug21"
+echo "This is a code from GitHUB 7aug21"
 ?>
