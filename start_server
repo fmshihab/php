@@ -1,2 +1,3 @@
 #!/bin/bash
+rm -f /var/www/html/index.php
 service httpd start
